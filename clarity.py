@@ -1,3 +1,4 @@
+#влоралоап
 import os
 import fitz  # PyMuPDF
 import ollama
